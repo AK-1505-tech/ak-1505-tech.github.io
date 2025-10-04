@@ -23,6 +23,7 @@
   font-size: var(--font-size);
   font-weight: 800;
   color: transparent;
+  margin-left: 15px
 }
 
 .cube {
